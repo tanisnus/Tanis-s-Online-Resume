@@ -1,1 +1,1 @@
-# Tanis-s-Online-Resume
+# Tanis-Resume
